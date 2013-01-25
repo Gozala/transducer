@@ -1,7 +1,7 @@
 {
   "name": "transducer",
   "id": "transducer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Library for filtering signals based on other signal behavior",
   "keywords": [
     "transducer",
